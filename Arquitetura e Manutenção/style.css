@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Arial";
+}
+
+.titulo{
+    color: rgb(17, 150, 160);
+    text-align: center;
+}
+
+header{
+    margin-top: 1px;
+    width: 100%;
+    height: 100vh;
+    background-image: url(Imagens/hardware.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    clip-path: polygon(0 0, 100% 0, 100% 90%, 0 90%);
+}
+
+body{
+    background-color: #142B35;
+}
+
+section{
+    width: 100%;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+    padding: 8%;
+    font-size: 21px;
+    line-height: 42px;
+    color: rgb(199, 216, 215);
+}
+
+a{
+    color: #AF6158;
+}
+
+footer{
+    font-size: 22px;
+    color: rgb(207, 235, 233);
+    padding: 30px;
+    text-align: center;
+}
