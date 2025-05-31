@@ -1,5 +1,5 @@
 // Um simples alerta na tela
-alert("Olá! Este é um exemplo de JavaScript");
+alert("Olá pessoal, boa tarde a todos e todas!");
 
 // Soma de dois números
 let a = 5
